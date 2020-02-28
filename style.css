@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100vh;
+  background-color: black;
+}
+
+canvas {
+  background-color: black;
+  margin: 50px calc(50vw - 400px);
+  display: inline-block;
+}
